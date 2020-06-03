@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Circus_Social_Assignment/static/css/main.8e4cafbd.chunk.css",
+    "main.js": "/Circus_Social_Assignment/static/js/main.64b6f819.chunk.js",
+    "main.js.map": "/Circus_Social_Assignment/static/js/main.64b6f819.chunk.js.map",
+    "runtime-main.js": "/Circus_Social_Assignment/static/js/runtime-main.17d337eb.js",
+    "runtime-main.js.map": "/Circus_Social_Assignment/static/js/runtime-main.17d337eb.js.map",
+    "static/js/2.0cb37dde.chunk.js": "/Circus_Social_Assignment/static/js/2.0cb37dde.chunk.js",
+    "static/js/2.0cb37dde.chunk.js.map": "/Circus_Social_Assignment/static/js/2.0cb37dde.chunk.js.map",
+    "index.html": "/Circus_Social_Assignment/index.html",
+    "precache-manifest.58616c0d68320db981e2a16735fe82a4.js": "/Circus_Social_Assignment/precache-manifest.58616c0d68320db981e2a16735fe82a4.js",
+    "service-worker.js": "/Circus_Social_Assignment/service-worker.js",
+    "static/css/main.8e4cafbd.chunk.css.map": "/Circus_Social_Assignment/static/css/main.8e4cafbd.chunk.css.map",
+    "static/js/2.0cb37dde.chunk.js.LICENSE.txt": "/Circus_Social_Assignment/static/js/2.0cb37dde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17d337eb.js",
+    "static/js/2.0cb37dde.chunk.js",
+    "static/css/main.8e4cafbd.chunk.css",
+    "static/js/main.64b6f819.chunk.js"
+  ]
+}
